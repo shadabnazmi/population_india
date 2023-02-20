@@ -1,0 +1,310 @@
+﻿Year,type,Population
+1950,Actual,  353 104
+1951,Actual,  360 938
+1952,Actual,  368 907
+1953,Actual,  377 088
+1954,Actual,  385 368
+1955,Actual,  394 095
+1956,Actual,  403 061
+1957,Actual,  412 252
+1958,Actual,  421 619
+1959,Actual,  430 973
+1960,Actual,  440 828
+1961,Actual,  451 081
+1962,Actual,  461 622
+1963,Actual,  472 426
+1964,Actual,  483 441
+1965,Actual,  494 677
+1966,Actual,  505 551
+1967,Actual,  516 434
+1968,Actual,  527 540
+1969,Actual,  539 324
+1970,Actual,  551 306
+1971,Actual,  563 697
+1972,Actual,  576 301
+1973,Actual,  589 374
+1974,Actual,  602 841
+1975,Actual,  616 603
+1976,Actual,  630 445
+1977,Actual,  644 458
+1978,Actual,  658 913
+1979,Actual,  673 622
+1980,Actual,  688 875
+1981,Actual,  704 782
+1982,Actual,  720 956
+1983,Actual,  737 382
+1984,Actual,  754 271
+1985,Actual,  771 520
+1986,Actual,  788 964
+1987,Actual,  806 793
+1988,Actual,  824 639
+1989,Actual,  842 821
+1990,Actual,  861 205
+1991,Actual,  879 700
+1992,Actual,  898 184
+1993,Actual,  916 964
+1994,Actual,  935 738
+1995,Actual,  954 785
+1996,Actual,  973 773
+1997,Actual,  992 790
+1998,Actual, 1 011 881
+1999,Actual, 1 030 988
+2000,Actual, 1 050 012
+2001,Actual, 1 069 256
+2002,Actual, 1 088 686
+2003,Actual, 1 107 940
+2004,Actual, 1 126 890
+2005,Actual, 1 145 639
+2006,Actual, 1 163 639
+2007,Actual, 1 181 109
+2008,Actual, 1 198 275
+2009,Actual, 1 215 195
+2010,Actual, 1 232 085
+2011,Actual, 1 249 142
+2012,Actual, 1 266 101
+2013,Actual, 1 282 874
+2014,Actual, 1 299 390
+2015,Actual, 1 315 103
+2016,Actual, 1 330 630
+2017,Actual, 1 346 642
+2018,Actual, 1 361 749
+2019,Actual, 1 376 258
+2020,Actual, 1 389 966
+2021,Actual, 1 402 808
+2022,Low variant, 7 941 658
+2023,Low variant, 7 994 241
+2024,Low variant, 8 053 463
+2025,Low variant, 8 112 672
+2026,Low variant, 8 171 094
+2027,Low variant, 8 228 680
+2028,Low variant, 8 276 754
+2029,Low variant, 8 323 983
+2030,Low variant, 8 370 348
+2031,Low variant, 8 415 788
+2032,Low variant, 8 460 234
+2033,Low variant, 8 497 829
+2034,Low variant, 8 534 357
+2035,Low variant, 8 569 794
+2036,Low variant, 8 604 083
+2037,Low variant, 8 637 146
+2038,Low variant, 8 669 083
+2039,Low variant, 8 699 820
+2040,Low variant, 8 729 107
+2041,Low variant, 8 756 938
+2042,Low variant, 8 783 271
+2043,Low variant, 8 807 985
+2044,Low variant, 8 830 920
+2045,Low variant, 8 851 963
+2046,Low variant, 8 870 993
+2047,Low variant, 8 887 932
+2048,Low variant, 8 902 649
+2049,Low variant, 8 914 984
+2050,Low variant, 8 924 780
+2051,Low variant, 8 932 022
+2052,Low variant, 8 936 534
+2053,Low variant, 8 938 561
+2054,Low variant, 8 937 842
+2055,Low variant, 8 934 525
+2056,Low variant, 8 928 601
+2057,Low variant, 8 920 174
+2058,Low variant, 8 909 321
+2059,Low variant, 8 896 112
+2060,Low variant, 8 880 520
+2061,Low variant, 8 862 866
+2062,Low variant, 8 843 239
+2063,Low variant, 8 821 808
+2064,Low variant, 8 798 560
+2065,Low variant, 8 773 679
+2066,Low variant, 8 747 060
+2067,Low variant, 8 718 871
+2068,Low variant, 8 689 283
+2069,Low variant, 8 658 179
+2070,Low variant, 8 625 637
+2071,Low variant, 8 591 598
+2072,Low variant, 8 556 167
+2073,Low variant, 8 519 375
+2074,Low variant, 8 481 165
+2075,Low variant, 8 441 469
+2076,Low variant, 8 400 290
+2077,Low variant, 8 357 580
+2078,Low variant, 8 313 342
+2079,Low variant, 8 267 661
+2080,Low variant, 8 220 579
+2081,Low variant, 8 172 069
+2082,Low variant, 8 122 161
+2083,Low variant, 8 071 003
+2084,Low variant, 8 018 590
+2085,Low variant, 7 964 936
+2086,Low variant, 7 910 066
+2087,Low variant, 7 854 017
+2088,Low variant, 7 796 911
+2089,Low variant, 7 738 849
+2090,Low variant, 7 679 762
+2091,Low variant, 7 619 736
+2092,Low variant, 7 558 751
+2093,Low variant, 7 496 937
+2094,Low variant, 7 434 246
+2095,Low variant, 7 370 837
+2096,Low variant, 7 306 615
+2097,Low variant, 7 241 655
+2098,Low variant, 7 175 943
+2099,Low variant, 7 109 619
+2100,Low variant, 7 042 750
+2022,Medium variant, 1 412 320
+2023,Medium variant, 1 422 027
+2024,Medium variant, 1 435 229
+2025,Medium variant, 1 448 211
+2026,Medium variant, 1 461 003
+2027,Medium variant, 1 473 460
+2028,Medium variant, 1 485 697
+2029,Medium variant, 1 497 645
+2030,Medium variant, 1 509 296
+2031,Medium variant, 1 520 692
+2032,Medium variant, 1 531 726
+2033,Medium variant, 1 542 490
+2034,Medium variant, 1 552 889
+2035,Medium variant, 1 562 950
+2036,Medium variant, 1 572 654
+2037,Medium variant, 1 581 951
+2038,Medium variant, 1 590 926
+2039,Medium variant, 1 599 566
+2040,Medium variant, 1 607 764
+2041,Medium variant, 1 615 589
+2042,Medium variant, 1 623 048
+2043,Medium variant, 1 630 123
+2044,Medium variant, 1 636 739
+2045,Medium variant, 1 642 937
+2046,Medium variant, 1 648 789
+2047,Medium variant, 1 654 238
+2048,Medium variant, 1 659 316
+2049,Medium variant, 1 664 095
+2050,Medium variant, 1 668 475
+2051,Medium variant, 1 672 507
+2052,Medium variant, 1 676 181
+2053,Medium variant, 1 679 565
+2054,Medium variant, 1 682 581
+2055,Medium variant, 1 685 329
+2056,Medium variant, 1 687 798
+2057,Medium variant, 1 689 991
+2058,Medium variant, 1 691 895
+2059,Medium variant, 1 693 514
+2060,Medium variant, 1 694 786
+2061,Medium variant, 1 695 785
+2062,Medium variant, 1 696 458
+2063,Medium variant, 1 696 911
+2064,Medium variant, 1 697 042
+2065,Medium variant, 1 696 881
+2066,Medium variant, 1 696 388
+2067,Medium variant, 1 695 560
+2068,Medium variant, 1 694 434
+2069,Medium variant, 1 692 991
+2070,Medium variant, 1 691 267
+2071,Medium variant, 1 689 194
+2072,Medium variant, 1 686 786
+2073,Medium variant, 1 684 044
+2074,Medium variant, 1 681 085
+2075,Medium variant, 1 677 814
+2076,Medium variant, 1 674 256
+2077,Medium variant, 1 670 401
+2078,Medium variant, 1 666 304
+2079,Medium variant, 1 661 897
+2080,Medium variant, 1 657 288
+2081,Medium variant, 1 652 426
+2082,Medium variant, 1 647 300
+2083,Medium variant, 1 642 056
+2084,Medium variant, 1 636 674
+2085,Medium variant, 1 631 104
+2086,Medium variant, 1 625 381
+2087,Medium variant, 1 619 474
+2088,Medium variant, 1 613 430
+2089,Medium variant, 1 607 302
+2090,Medium variant, 1 601 089
+2091,Medium variant, 1 594 729
+2092,Medium variant, 1 588 241
+2093,Medium variant, 1 581 645
+2094,Medium variant, 1 574 947
+2095,Medium variant, 1 568 192
+2096,Medium variant, 1 561 403
+2097,Medium variant, 1 554 487
+2098,Medium variant, 1 547 513
+2099,Medium variant, 1 540 467
+2100,Medium variant, 1 533 400
+2022,High variant, 1 412 320
+2023,High variant, 1 424 827
+2024,High variant, 1 440 838
+2025,High variant, 1 456 642
+2026,High variant, 1 472 270
+2027,High variant, 1 487 575
+2028,High variant, 1 504 397
+2029,High variant, 1 520 935
+2030,High variant, 1 537 184
+2031,High variant, 1 553 181
+2032,High variant, 1 568 819
+2033,High variant, 1 585 346
+2034,High variant, 1 601 500
+2035,High variant, 1 617 304
+2036,High variant, 1 632 736
+2037,High variant, 1 647 742
+2038,High variant, 1 662 406
+2039,High variant, 1 676 714
+2040,High variant, 1 690 561
+2041,High variant, 1 704 011
+2042,High variant, 1 717 080
+2043,High variant, 1 729 779
+2044,High variant, 1 742 075
+2045,High variant, 1 754 039
+2046,High variant, 1 765 768
+2047,High variant, 1 777 230
+2048,High variant, 1 788 497
+2049,High variant, 1 799 682
+2050,High variant, 1 810 711
+2051,High variant, 1 821 661
+2052,High variant, 1 832 539
+2053,High variant, 1 843 440
+2054,High variant, 1 854 291
+2055,High variant, 1 865 209
+2056,High variant, 1 876 178
+2057,High variant, 1 887 193
+2058,High variant, 1 898 222
+2059,High variant, 1 909 252
+2060,High variant, 1 920 181
+2061,High variant, 1 931 067
+2062,High variant, 1 941 823
+2063,High variant, 1 952 546
+2064,High variant, 1 963 084
+2065,High variant, 1 973 448
+2066,High variant, 1 983 562
+2067,High variant, 1 993 402
+2068,High variant, 2 003 001
+2069,High variant, 2 012 321
+2070,High variant, 2 021 404
+2071,High variant, 2 030 161
+2072,High variant, 2 038 605
+2073,High variant, 2 046 750
+2074,High variant, 2 054 758
+2075,High variant, 2 062 517
+2076,High variant, 2 070 075
+2077,High variant, 2 077 438
+2078,High variant, 2 084 693
+2079,High variant, 2 091 767
+2080,High variant, 2 098 823
+2081,High variant, 2 105 805
+2082,High variant, 2 112 710
+2083,High variant, 2 119 743
+2084,High variant, 2 126 883
+2085,High variant, 2 134 062
+2086,High variant, 2 141 318
+2087,High variant, 2 148 598
+2088,High variant, 2 155 957
+2089,High variant, 2 163 463
+2090,High variant, 2 171 088
+2091,High variant, 2 178 723
+2092,High variant, 2 186 375
+2093,High variant, 2 194 041
+2094,High variant, 2 201 701
+2095,High variant, 2 209 405
+2096,High variant, 2 217 161
+2097,High variant, 2 224 799
+2098,High variant, 2 232 417
+2099,High variant, 2 239 965
+2100,High variant, 2 247 506
